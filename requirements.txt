@@ -1,0 +1,20 @@
+# Web UI
+streamlit
+
+# Google Gemini
+google-generativeai
+
+# Firebase Auth & Firestore
+firebase-admin
+pyrebase4
+
+# PDF export
+pdfkit
+# Required system dependency: wkhtmltopdf must be installed separately
+
+# Env variable management
+python-dotenv
+
+# Utility
+schedule    # (for optional reminders via cron-like jobs)
+requests
